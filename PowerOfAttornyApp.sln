@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfAttornyApp.Service", "PowerOfAttornyApp.Service\PowerOfAttornyApp.Service.csproj", "{08A4DF2F-1AE5-4242-BED2-DADFFF5E9A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfAttornyApp.Service.Tests", "PowerOfAttornyApp.Service.Tests\PowerOfAttornyApp.Service.Tests.csproj", "{7AB31A3E-1831-4CBB-A8BA-7EF7025C14F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A4DF2F-1AE5-4242-BED2-DADFFF5E9A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A4DF2F-1AE5-4242-BED2-DADFFF5E9A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A4DF2F-1AE5-4242-BED2-DADFFF5E9A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A4DF2F-1AE5-4242-BED2-DADFFF5E9A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB31A3E-1831-4CBB-A8BA-7EF7025C14F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB31A3E-1831-4CBB-A8BA-7EF7025C14F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB31A3E-1831-4CBB-A8BA-7EF7025C14F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB31A3E-1831-4CBB-A8BA-7EF7025C14F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A50BC327-9E23-4DB4-B2DC-56B494D5AEE1}
+	EndGlobalSection
+EndGlobal
